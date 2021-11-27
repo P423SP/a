@@ -12,19 +12,19 @@
                     "nombre": "Casa 2",
                     "direccion": "calle 45",
                     "metros": "450",
-                    "img": "/imgs/casa/casa2"
+                    "img": "/imgs/casa/casa2/"
                 },
                 {
                     "nombre": "Casa 3",
                     "direccion": "calle 33",
                     "metros": "600",
-                    "img": "/imgs/casa/casa3"
+                    "img": "/imgs/casa/casa3/"
                 },
                 {
                     "nombre": "Casa 4",
                     "direccion": "calle 56",
                     "metros": "980",
-                    "img": "/imgs/casa/casa4"
+                    "img": "/imgs/casa/casa4/"
                 }
             ]
         },
@@ -34,25 +34,25 @@
                     "nombre": "2B",
                     "direccion": "calle 13",
                     "metros": "200",
-                    "img": "/imgs/apartamento/apartament1"
+                    "img": "/imgs/apartamento/apartament1/"
                 },
                 {
                     "nombre": "4C",
                     "direccion": "calle 57",
                     "metros": "400",
-                    "img": "/imgs/apartamento/apartament2"
+                    "img": "/imgs/apartamento/apartament2/"
                 },
                 {
                     "nombre": "8F",
                     "direccion": "calle 463",
                     "metros": "480",
-                    "img": "/imgs/apartamento/apartament3"
+                    "img": "/imgs/apartamento/apartament3/"
                 },
                 {
                     "nombre": "6D",
                     "direccion": "calle 897",
                     "metros": "350",
-                    "img": "/imgs/apartamento/apartament4"
+                    "img": "/imgs/apartamento/apartament4/"
                 }
             ]
         },
@@ -62,25 +62,25 @@
                     "nombre": "Garaje1",
                     "direccion": "calle 25",
                     "metros": "777",
-                    "img": "/imgs/garaje/garaje1"
+                    "img": "/imgs/garaje/garaje1/"
                 },
                 {
                     "nombre": "Garaje2",
                     "direccion": "calle 578",
                     "metros": "345",
-                    "img": "/imgs/garaje/garaje"
+                    "img": "/imgs/garaje/garaje2/"
                 },
                 {
                     "nombre": "Garaje3",
                     "direccion": "calle 095",
                     "metros": "777",
-                    "img": "/imgs/garaje/garaje3"
+                    "img": "/imgs/garaje/garaje3/"
                 },
                 {
                     "nombre": "Garaje4",
                     "direccion": "calle 225",
                     "metros": "777",
-                    "img": "/imgs/garaje/garaje4"
+                    "img": "/imgs/garaje/garaje4/"
                 }
             ]
         },
@@ -90,25 +90,25 @@
                     "nombre": "Casa destacada 1",
                     "direccion": "calle 77",
                     "metros": "799",
-                    "img": "/imgs/destacados/destacado1"
+                    "img": "/imgs/destacados/destacado1/"
                 },
                 {
                     "nombre": "Casa destacada 2",
                     "direccion": "calle 56",
                     "metros": "970",
-                    "img": "/imgs/destacados/destacado2"
+                    "img": "/imgs/destacados/destacado2/"
                 },
                 {
                     "nombre": "Casa destacada 3",
                     "direccion": "calle 574",
                     "metros": "245",
-                    "img": "/imgs/destacados/destacado3"
+                    "img": "/imgs/destacados/destacado3/"
                 },
                 {
                     "nombre": "Casa destacada 4",
                     "direccion": "calle 654",
                     "metros": "346",
-                    "img": "/imgs/destacados/destacado4"
+                    "img": "/imgs/destacados/destacado4/"
                 }
             ]
         }
