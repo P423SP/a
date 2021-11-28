@@ -45,7 +45,8 @@
                     "nombre": "4C",
                     "direccion": "calle 57",
                     "metros": "400",
-                    "img": "/imgs/apartamento/apartament2/"
+                    "img": "/imgs/apartamento/apartament2/",
+                    "precio":"100555"
                 },
                 {
                     "nombre": "8F",
