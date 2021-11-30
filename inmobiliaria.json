@@ -6,28 +6,28 @@
                     "nombre": "Casa 1",
                     "direccion": "calle 51",
                     "metros": "500",
-                    "img": "/imgs/casa/casa1/",
+                    "img": "./imgs/casa/casa1/",
                     "precio":"1000000"
                 },
                 {
                     "nombre": "Casa 2",
                     "direccion": "calle 45",
                     "metros": "450",
-                    "img": "/imgs/casa/casa2/",
+                    "img": "./imgs/casa/casa2/",
                     "precio":"200000"
                 },
                 {
                     "nombre": "Casa 3",
                     "direccion": "calle 33",
                     "metros": "600",
-                    "img": "/imgs/casa/casa3/",
+                    "img": "./imgs/casa/casa3/",
                     "precio":"1500000"
                 },
                 {
                     "nombre": "Casa 4",
                     "direccion": "calle 56",
                     "metros": "980",
-                    "img": "/imgs/casa/casa4/",
+                    "img": "./imgs/casa/casa4/",
                     "precio":"900000"
                 }
             ]
@@ -38,28 +38,28 @@
                     "nombre": "2B",
                     "direccion": "calle 13",
                     "metros": "200",
-                    "img": "/imgs/apartamento/apartament1/",
+                    "img": "./imgs/apartamento/apartament1/",
                     "precio":"1200000"
                 },
                 {
                     "nombre": "4C",
                     "direccion": "calle 57",
                     "metros": "400",
-                    "img": "/imgs/apartamento/apartament2/",
+                    "img": "./imgs/apartamento/apartament2/",
                     "precio":"100555"
                 },
                 {
                     "nombre": "8F",
                     "direccion": "calle 463",
                     "metros": "480",
-                    "img": "/imgs/apartamento/apartament3/",
+                    "img": "./imgs/apartamento/apartament3/",
                     "precio":"3000000"
                 },
                 {
                     "nombre": "6D",
                     "direccion": "calle 897",
                     "metros": "350",
-                    "img": "/imgs/apartamento/apartament4/",
+                    "img": "./imgs/apartamento/apartament4/",
                     "precio":"5000000"
                 }
             ]
@@ -70,28 +70,28 @@
                     "nombre": "Garaje1",
                     "direccion": "calle 25",
                     "metros": "777",
-                    "img": "/imgs/garaje/garaje1/",
+                    "img": "./imgs/garaje/garaje1/",
                     "precio":"777777"
                 },
                 {
                     "nombre": "Garaje2",
                     "direccion": "calle 578",
                     "metros": "345",
-                    "img": "/imgs/garaje/garaje2/",
+                    "img": "./imgs/garaje/garaje2/",
                     "precio":"140000"
                 },
                 {
                     "nombre": "Garaje3",
                     "direccion": "calle 095",
                     "metros": "777",
-                    "img": "/imgs/garaje/garaje3/",
+                    "img": "./imgs/garaje/garaje3/",
                     "precio":"1000000"
                 },
                 {
                     "nombre": "Garaje4",
                     "direccion": "calle 225",
                     "metros": "777",
-                    "img": "/imgs/garaje/garaje4/",
+                    "img": "./imgs/garaje/garaje4/",
                     "precio":"4500000"
                 }
             ]
@@ -102,28 +102,28 @@
                     "nombre": "Casa destacada 1",
                     "direccion": "calle 77",
                     "metros": "799",
-                    "img": "/imgs/destacados/destacado1/",
+                    "img": "./imgs/destacados/destacado1/",
                     "precio":"10600000"
                 },
                 {
                     "nombre": "Casa destacada 2",
                     "direccion": "calle 56",
                     "metros": "970",
-                    "img": "/imgs/destacados/destacado2/",
+                    "img": "./imgs/destacados/destacado2/",
                     "precio":"12000000"
                 },
                 {
                     "nombre": "Casa destacada 3",
                     "direccion": "calle 574",
                     "metros": "245",
-                    "img": "/imgs/destacados/destacado3/",
+                    "img": "./imgs/destacados/destacado3/",
                     "precio":"16000000"
                 },
                 {
                     "nombre": "Casa destacada 4",
                     "direccion": "calle 654",
                     "metros": "346",
-                    "img": "/imgs/destacados/destacado4/",
+                    "img": "./imgs/destacados/destacado4/",
                     "precio":"17000000"
                 }
             ]
